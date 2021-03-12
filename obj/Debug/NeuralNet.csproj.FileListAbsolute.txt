@@ -1,0 +1,7 @@
+C:\Users\ogban\Documents\NeuralNet\bin\Debug\NeuralNet.exe.config
+C:\Users\ogban\Documents\NeuralNet\bin\Debug\NeuralNet.exe
+C:\Users\ogban\Documents\NeuralNet\bin\Debug\NeuralNet.pdb
+C:\Users\ogban\Documents\NeuralNet\obj\Debug\NeuralNet.csprojAssemblyReference.cache
+C:\Users\ogban\Documents\NeuralNet\obj\Debug\NeuralNet.csproj.CoreCompileInputs.cache
+C:\Users\ogban\Documents\NeuralNet\obj\Debug\NeuralNet.exe
+C:\Users\ogban\Documents\NeuralNet\obj\Debug\NeuralNet.pdb
